@@ -1,0 +1,213 @@
+<style>:root{
+ --main-color:#054769;
+ --second-color:#fff;
+ --third-color:#000;
+ --four-color:#B7C9CC;
+ --seven-color:#608186;
+ }
+ 
+ .pubip{
+ padding:20px;
+ width:530px;
+ margin:0 auto;
+ }
+ 
+ .fopub{
+ background-color:#fff;
+ padding:15px;
+   border:3px solid var(--four-color);
+ }
+ 
+ .fopub img{
+ width:500px;
+ margin:0 auto;
+ }
+ 
+ .fopub a:link, .fopub a:visited, .fopub a:hover, .fopub a{
+ text-decoration:none;
+ color:var(--main-color);
+ }
+ 
+ .cxtpub{
+ text-align:justify;
+ font-family:Verdana;
+ color:var(--six-color);
+ font-size:12px;
+ line-height:14px;
+ width:450px;
+ height:350px;
+ overflow:auto;
+ margin:0 auto;
+ }
+ 
+ .cxtpub a{ font-weight:bold; background:var(--four-color); padding:5px; border-radius:5px; margin:5px 0px; display:block;}
+ 
+ .cxtpub img{
+ float:left;
+ width:100px; height:100px;
+ object-fit:cover;
+ border:var(--main-color) 4px solid;
+ -webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+border-radius: 50%;
+
+}
+ 
+ .lienspub{
+ text-align:center;
+     text-align: center;
+   display: flex;
+   flex-wrap: wrap;
+ width:175px;
+ margin-left:15px;
+ }
+ 
+ .lienspub a{
+       font-family: Oswald, sans-serif;
+ text-align:center;
+ font-size:17px;
+ text-transform:uppercase;
+ border-radius:5px;
+ font-weight:bold;
+     margin: 5px 0px;
+ background:var(--four-color);
+ color:var(--main-color); transition:500ms;
+ width:100%;
+ padding:5px; position:relative;
+ }
+ 
+ .lienspub a:hover{ background:#CFDBDD; transition:500ms; }
+ 
+   .infopub{
+ float:left;
+ width:200px;
+ font-family:Verdana;
+ color:#5B3943;
+ font-size:12px;
+ line-height:14px;
+ }
+ 
+ .staffpub h2, .inlipub h1{
+     font-family: Oswald, sans-serif;
+ color:var(--main-color);
+ font-weight:normal;
+ text-align:center;
+ border-bottom:var(--four-color) 2px dotted;
+ padding-bottom:3px;
+ font-size:22px;
+ }
+
+ 
+ .inlipub{
+ width:450px;
+ display:flex;
+ justify-content:center;
+ margin:0 auto;
+ padding-top:25px;
+     align-items: center;
+ }
+ 
+ .inlipub img{
+ width:190px;
+ border:var(--main-color) 4px solid;
+ height:90px;
+ object-fit:cover;
+ }
+ 
+   
+ .staffpub{
+ width:480px;
+ margin:0 auto;
+ clear:both;
+ display:flex;
+ justify-content:center;
+ flex-wrap:wrap;
+ }
+ 
+ .staffpub div{
+ float:left;
+ margin-left:5px;
+ }
+ 
+ .staffpub h2{
+ width:100%;
+ }
+ 
+ .staffpub img{
+ width:130px;
+ }
+ 
+   .staffpub h1:hover{
+ background-color:var(--seven-color);
+ }
+ 
+   .staffpub h1{
+ background-color:var(--main-color);
+-webkit-border-bottom-right-radius: 30px;
+-webkit-border-bottom-left-radius: 30px;
+-moz-border-radius-bottomright: 30px;
+-moz-border-radius-bottomleft: 30px;
+border-bottom-right-radius: 30px;
+border-bottom-left-radius: 30px;
+ color:#fff;
+ padding:5px;
+ width:120px;
+ font-family:Verdana;
+ text-align:center;
+ font-size:10px;
+ font-weight:normal;
+ line-height:11px;
+ margin:0px;
+ }
+ 
+ .rejoindre{
+       font-family: Oswald, sans-serif;
+ color:var(--main-color);
+ font-weight:normal;
+ text-align:center;
+ border-bottom:var(--four-color) 2px dotted;
+ padding-bottom:3px;
+ font-size:25px;
+ text-transform:uppercase;
+ }
+
+.koala{display:flex; justify-content:center; font-size:8px; letter-spacing:5px; }
+ 
+</style>
+ 
+ 
+<link href="https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre|Oswald&display=swap" rel="stylesheet">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet"> <div class="pubip"><div class="fopub"><a target="blank" href="#"><img src="https://zupimages.net/up/24/01/qja0.gif"></a><br>
+<br><div class="cxtpub"><img src="https://zupimages.net/up/24/01/h6iy.png">Dans le plus grand des secrets, le grand conseil du monde sorcier -appelé le Consortium- veille à la protection des créations magiques du monde entier. Jeux de pouvoirs, lois plus ou moins justes, alliances diverses... Ils font tout ce qui est en leur pouvoir pour éviter une nouvelle chasse aux sorciers.ères et ainsi offrir à la jeune génération -qu'ils forment au sein de leur Académie- un monde plus sûr, prônant le partage de connaissances et l'union des différentes magies.
+
+Bienvenue à Fairwood, petite bourgade de la Nouvelle Écosse ! Dans l’ombre de cette charmante ville côtière se tient le domaine du Consortium, relié au monde entier par un portail. Vous pourrez y jouer un sorcier venant des tous les horizons et usant de diverses magies (vodoo, métamorphose, divination, etc...) mais aussi une fée, un lycan ou encore une sirène...
+
+Erigo Consortium se veut un forum participatif permettant aux joueurs de personnaliser l'évolution de leur personnage au travers d'un système de niveaux et de spécialités, où il leur est possible de développer leurs propres intrigues et d'enrichir un lore qui ne demande qu'à s'étoffer.
+
+<br /><a target="_blank" href="https://erigoconsortium.forumactif.com/t28-annexe-1-contexte-du-forum">Contexte complet</a> </div>
+ <div class="inlipub">
+   <div class="infopub"><h1>Informations (ou event)</h1><img src="https://media0.giphy.com/media/1zrFLK1pUix1K/source.gif">
+ <br><br>
+•FORUM RPG CITY/UNIVERSITY FANTASTIQUE<br>
+• Avatar réel, pour un format de 200*320/400*640<br>
+• Forum 18+ pour un contexte se voulant mature. <br>
+• 300 mots minimum<br>
+           </div>
+   <div class="lienspub">
+ <br><a target="_blank" href="https://erigoconsortium.forumactif.com/t29-annexe-2-regles-du-jeu">• Réglement</a>
+ <a target="_blank" href="https://erigoconsortium.forumactif.com/t30-annexe-3-souches-et-branches-de-jouables">• Groupes</a>
+ <a target="_blank" href="https://erigoconsortium.forumactif.com/t38-bottin-des-personnages">• Listings</a>
+ <a target="_blank" href="https://erigoconsortium.forumactif.com/t31-annexe-4-les-arcs-sorciers-fondateurs">• Les Arcanes</a>
+ <a target="_blank" href="https://erigoconsortium.forumactif.com/t32-annexe-5-les-differentes-specialites-et-leurs-niveaux">• Les spécialités </a>
+ <a target="_blank" href="https://welcometodd.forumactif.com/f10-le-portail-des-invites">• Invités</a>
+  </div>
+</div><br><div class="staffpub"><h2>Le staff </h2>
+ <div><img src="https://i.postimg.cc/qqT7b7rh/temp-Imagegrfwr-U.jpg"><h1><b>[url=https://erigoconsortium.forumactif.com/u1]Alexander Ward[/url]</b><br>Fonda/Admin</h1></div>
+      <div><img src="https://i.postimg.cc/gk40sdTj/temp-Imagex6-SQ9a.jpg"><h1><b>[url=https://erigoconsortium.forumactif.com/u4]Ciaran Foley[/url]</b><br>Admin</h1></div>
+         <div><img src="https://i.postimg.cc/J7N0yj3b/temp-Image-XVMzn-T.jpg"><h1><b>[url=https://erigoconsortium.forumactif.com/u3]Eris Roseval[/url]</b><br>Admin</h1></div>
+<div><img src="https://i.postimg.cc/8PT5Lswx/temp-Image-EJCj-Pz.jpg"><h1><b>[url=https://erigoconsortium.forumactif.com/u14]Logan Fitzburry[/url]</b><br>Modo</h1></div>
+</div>
+   <div><h1 class="rejoindre">N'hésitez pas à nous rejoindre !</h1></div>
+   </div>
+</div><a href="https://pisrale.forumactif.com/" class="koala">KoalaVolant</a>
